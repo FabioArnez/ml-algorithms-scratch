@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# IDE configurations
+.idea
+.vscode
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Python
+*.pyc
+
+# PyTorch
+*.pth
+# Misc
+logs_hydra/
+ml-runs/
+mlruns/
+lightning_logs/
+pretrained_models/*.txt
+
+# macOS
+.DS_Store
