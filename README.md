@@ -8,7 +8,7 @@ ToDo:
   - [ ] Add dummy dataset for regression tasks
 - [ ] Add algorithms
   - [ ] Linear regression
-  - [ ] Naive Bayes Classifier
+  - [x] Naive Bayes Classifier
   - [ ] Gaussian Mixture Model
   - [ ] KNN
   - [ ] K-Means
