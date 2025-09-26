@@ -4,7 +4,7 @@ This repository contains common classic ML algorithms implemented from scratch w
 
 ToDo:
 - [ ] Add dummy data generators:
-  - [ ] Add dummy dataset for classification tasks
+  - [x] Add dummy dataset for classification tasks
   - [ ] Add dummy dataset for regression tasks
 - [ ] Add algorithms
   - [ ] Linear regression
